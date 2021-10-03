@@ -12,5 +12,6 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 - [LocalStorage API](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/localStorage)
 - [JSON Server](https://www.npmjs.com/package/json-server)
 - [Toastify](https://fkhadra.github.io/react-toastify/introduction)
+- [Styled-Components](https://styled-components.com/docs)
 
 <br>
