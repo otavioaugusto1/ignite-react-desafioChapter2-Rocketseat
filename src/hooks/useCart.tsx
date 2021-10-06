@@ -79,7 +79,7 @@ export function CartProvider({ children }: CartProviderProps): JSX.Element {
       }
 
     } catch {
-      toast.error('Erro na remoção do produto')
+      toast.error('Erro na remoção do produto');
     }
   };
 
